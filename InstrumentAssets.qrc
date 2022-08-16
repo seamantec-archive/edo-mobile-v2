@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/instruments/bg.png</file>
+        <file>assets/instruments/digit_bg.png</file>
+        <file>assets/instruments/max.png</file>
+        <file>assets/instruments/min.png</file>
+        <file>assets/instruments/mutato.png</file>
+        <file>assets/instruments/numbers.png</file>
+        <file>assets/instruments/digit_text_bg.png</file>
+        <file>assets/instruments/digit_text_decimal_bg.png</file>
+        <file>scripts/Utils.js</file>
+        <file>assets/instruments/new_compass/compass_bg.png</file>
+        <file>assets/instruments/new_compass/compass_rotate.png</file>
+        <file>assets/instruments/new_compass/digi_bg.png</file>
+    </qresource>
+</RCC>

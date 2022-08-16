@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/bg.png</file>
+        <file>assets/images/btn_facebook.png</file>
+        <file>assets/images/btn_green.png</file>
+        <file>assets/images/btn_blue.png</file>
+        <file>assets/images/edo logo.png</file>
+        <file>assets/images/icons/soicon_depth.png</file>
+        <file>assets/images/icons/soicon_heading.png</file>
+        <file>assets/images/icons/soicon_pos.png</file>
+        <file>assets/images/icons/soicon_stw.png</file>
+        <file>assets/images/icons/soicon_wind.png</file>
+        <file>assets/images/icons/icon_device.png</file>
+        <file>assets/images/icons/icon_settings.png</file>
+        <file>assets/images/icons/arrow back.png</file>
+        <file>assets/images/switch_off.png</file>
+        <file>assets/images/switch_on.png</file>
+        <file>assets/images/arrow more.png</file>
+    </qresource>
+</RCC>

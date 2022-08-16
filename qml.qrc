@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MessagesList.qml</file>
+        <file>Stage1.qml</file>
+        <file>LoginScreen.qml</file>
+        <file>StageContainer.qml</file>
+        <file>StartupScreen.qml</file>
+        <file>Compass.qml</file>
+        <file>TopBtn.qml</file>
+        <file>MainMenu.qml</file>
+        <file>BackBtn.qml</file>
+        <file>Header.qml</file>
+        <file>MenuModel.qml</file>
+        <file>SwitchBtn.qml</file>
+        <file>BottomGraph.qml</file>
+        <file>ConnectionSettings.qml</file>
+    </qresource>
+</RCC>

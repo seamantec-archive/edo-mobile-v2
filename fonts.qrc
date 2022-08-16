@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fonts/digital_edo_pr.ttf</file>
+    </qresource>
+</RCC>
